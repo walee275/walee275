@@ -1,6 +1,6 @@
 ## Hi, I'm Muhammad Waleed Khan 👋
 
-Senior Full Stack Laravel Developer specializing in **ERP, SaaS, and multi-tenant applications** using the **TALL stack**.  
+Full Stack Laravel Developer specializing in **ERP, SaaS, and multi-tenant applications** using the **TALL stack**.  
 I focus on building **scalable backend architectures**, real-time interfaces, and secure financial workflows for production systems.
 
 ---
